@@ -8,8 +8,8 @@ categories: April Fools!
 ---
 Please click inside of this article to read further..
 
-
-
 This is a test publication about a great accomplishment I once accomplished.
 
 The accomplishment that I once accomplished was to make you read this post.
+
+April Fools!
