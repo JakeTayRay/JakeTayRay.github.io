@@ -36,12 +36,6 @@ intro_paragraph: |-
 
    </p>
 
-   <p>
-
-    <button type="submit">Send</button>
-
-   </p>
-
   </form>
 ---
 **Feel free to also contact me through my email jtaylorray4223@conestogac.on.ca**
