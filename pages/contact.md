@@ -1,15 +1,47 @@
 ---
 layout: contact
-title: Contact
+title: Contact Me
 permalink: /contact
 section: contact
 intro_paragraph: |-
+  <form name="contact" method="POST" data-netlify="true">
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+   <p>
+
+    <label>Your name: <input type="text" name="name" /></label>
+
+   </p>
+
+   <p>
+
+    <label>Your email: <input type="email" name="email" /></label>
+
+  </p>
+
+   <p>
+
+    <label>Please select your role: <select name="role[]">
+
+     <option value="teacher">Teacher</option>
+
+     <option value="student">Student</option>
+
+    </select></label>
+
+   </p>
+
+   <p>
+
+    <label>Message: <textarea name="message"></textarea></label>
+
+   </p>
+
+   <p>
+
+    <button type="submit">Send</button>
+
+   </p>
+
+  </form>
 ---
-
-**Send us a message**
+**Feel free to also contact me through my email jtaylorray4223@conestogac.on.ca**
